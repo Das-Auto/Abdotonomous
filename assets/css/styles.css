@@ -394,15 +394,21 @@ a:focus {
 }
 
 .hero-carousel .carousel-inner .item-2 {
-  background-image: url("../images/hero-2.jpg");
+  background-image: url("../images/shell_bg.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  overflow: hidden;
 }
 
+.hero-carousel .carousel-inner .item-2 .img {
+  object-fit: cover;
+  background: black;
+   opacity: 0.9;
+}
 .hero-carousel .carousel-inner .item-3 {
-  background-image: url("../images/hero-3.jpg");
+  background-image: url("../images/shell_bg.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
