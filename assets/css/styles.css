@@ -647,6 +647,7 @@ a:focus {
 .features-section {
   padding-top: 90px;
   padding-bottom: 90px;
+  background: #f5f5f5;
 }
 
 .features-section .section-title {
@@ -765,6 +766,10 @@ a:focus {
   background: #F8A13F;
 }
 
+pricing-wrapper .item-4 .item-inner {
+  background: lightyellow;
+}
+
 .pricing-wrapper .item-heading {
   font-weight: 800;
   font-size: 18px;
@@ -852,6 +857,20 @@ a:focus {
   height: 100%;
 }
 
+ .col-md-3 {
+  
+  padding-bottom: 30px !important;
+}
+.team-section .item-inner:active{
+  background: whitesmoke;
+  content: '';
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  right: 10px;
+  bottom: 10px;
+}
 .team-section .member-name {
   font-size: 18px;
   font-weight: 700;
@@ -939,6 +958,9 @@ a:focus {
   background: #1a1a1a;
 }
 
+.team-section .social a.linkedin{
+  background: #2867b2;
+}
 .team-section .social a.medium:hover {
   background: #000;
 }
