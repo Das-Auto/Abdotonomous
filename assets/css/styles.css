@@ -547,7 +547,7 @@ a:focus {
 
 /* ======= Testimonials Section ======= */
 .testimonials-section {
-  background: #40babd url("../images/map.png") no-repeat center center;
+  background: #40babd url("../images/") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
