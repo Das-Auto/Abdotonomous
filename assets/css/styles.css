@@ -977,6 +977,14 @@ pricing-wrapper .item-4 .item-inner {
   color: #fff;
 }
 
+.contact-section .inner {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image:"../images/project_cloud_2.svg" no-repeat center center;
+  opacity: 0.9;
+  color: #fff;
+}
+
 .contact-section .section-title {
   margin: 0;
   margin-bottom: 15px;
