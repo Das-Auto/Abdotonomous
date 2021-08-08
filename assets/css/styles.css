@@ -861,7 +861,7 @@ pricing-wrapper .item-4 .item-inner {
   
   padding-bottom: 30px !important;
 }
-.team-section .item-inner:active{
+/* .team-section .item-inner:active{
   background: whitesmoke;
   content: '';
   display: block;
@@ -870,7 +870,7 @@ pricing-wrapper .item-4 .item-inner {
   left: 10px;
   right: 10px;
   bottom: 10px;
-}
+} */
 .team-section .member-name {
   font-size: 18px;
   font-weight: 700;
